@@ -1,2 +1,2 @@
 web: echo 'Started'
-release: ./release.sh
+release: sh ./release.sh
